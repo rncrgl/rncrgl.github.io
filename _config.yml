@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Ronan Corgel"
 title_separator          : "-"
 name                     : &name "Ronan Corgel"
 description              : &description "Professional Website for Ronan Corgel"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ronan Corgel"
   avatar           : "profile.png"
-  bio              : "Epidemiology Student"
+  bio              : "Infectious Disease Epidemiology Graduate Student"
   location         : "Baltimore, MD"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
