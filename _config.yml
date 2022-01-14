@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ronan Corgel"
-  avatar           : "profile.png"
+  avatar           : "profile_pic.png"
   bio              : "Infectious Disease Epidemiology Graduate Student"
   location         : "Baltimore, MD"
   employer         :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/rncrgl"
+  github           : "rncrgl"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/ronancorgel/"
+  linkedin         : "ronancorgel"
   orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/ronancorgel"
+  twitter          : "ronancorgel"
   vine             :
   weibo            :
   xing             :
