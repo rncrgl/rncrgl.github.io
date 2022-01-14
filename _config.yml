@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ronan Corgel's Website"
+title                    : "Ronan Corgel"
 title_separator          : "-"
 name                     : &name "Ronan Corgel"
 description              : &description "personal description"
