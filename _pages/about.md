@@ -21,8 +21,8 @@ Epidemiology, with a focus in Infectious Disease Epidemiology. In addition to
 being a full-time student, I'm also a Research Assistant in the Infectious
 Disease Dynamics group where I've been working with cell phone mobility data
 from Sub-Saharan Africa. For my undergraduate degree, I also attended Johns
-Hopkins University where I received a Bachelor of Arts in Economics and Public
-Health Studies.
+Hopkins University where I received a Bachelor of Arts in Public Health Studies
+and Economics.
 
 ## Work History
 
