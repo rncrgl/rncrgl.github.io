@@ -13,7 +13,7 @@ background in public health, economics, and data analysis. My broad research
 interests include: the impact of human mobility on disease spread, spatial
 analysis, phylogeography, and infectious disease modeling.
 
-## Academic Background
+## 🦠 Academic Background 📊
 
 Currently, I'm in the middle of my first year as a Master of Science (Sc.M.)
 student at the Johns Hopkins Bloomberg School of Public Health. My degree is in
@@ -24,7 +24,7 @@ from Sub-Saharan Africa. For my undergraduate degree, I also attended Johns
 Hopkins University where I received a Bachelor of Arts in Public Health Studies
 and Economics.
 
-## Work History
+## 📉 Work History 🏥
 
 Between my undergraduate and graduate studies, I spent 3 years working in
 Washington, DC. My first job out of undergrad was at the economic consulting
