@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "About Me"
+excerpt: "About Me"
 author_profile: true
 redirect_from:
   - /about/
@@ -13,9 +13,9 @@ background in public health, economics, and data analysis. My broad research
 interests include: the impact of human mobility on disease spread, spatial
 analysis, phylogeography, and infectious disease modeling.
 
-## Academic background
+## Academic Background
 
-Currently, I'm in the middle of my first year as a Master of Science (ScM)
+Currently, I'm in the middle of my first year as a Master of Science (Sc.M.)
 student at the Johns Hopkins Bloomberg School of Public Health. My degree is in
 Epidemiology, with a focus in Infectious Disease Epidemiology. In addition to
 being a full-time student, I'm also a Research Assistant in the Infectious
@@ -24,7 +24,7 @@ from Sub-Saharan Africa. For my undergraduate degree, I also attended Johns
 Hopkins University where I received a Bachelor of Arts in Economics and Public
 Health Studies.
 
-## Work history
+## Work History
 
 Between my undergraduate and graduate studies, I spent 3 years working in
 Washington, DC. My first job out of undergrad was at the economic consulting
@@ -35,10 +35,9 @@ I worked on involved monopolization of healthcare data and anticompetitive drug
 pricing.
 
 After over a year at Charles River Associates, I realized a career closer to
-public health was more suitable. I switched to a Health Data Analyst role at
+public health would be more suitable. I switched to a Health Data Analyst role at
 [U.S. News & World Report](https://www.usnews.com/) in September 2019. At U.S.
-News, I contributed to projects such as the Best Hospitals Rankings and Ratings,
-Best Nursing Homes Ratings, and the novel Best Hospitals Health Equity Measures.
-In addition to these projects, I also conducted statistical analyses and
-co-authored multiple data journalism articles covering various topics around
-health disparities including [access to surgical care](https://health.usnews.com/health-care/best-hospitals/articles/who-gets-high-quality-hospital-care), [racial disparities in surgical outcomes](https://health.usnews.com/health-care/best-hospitals/articles/race-and-risk-post-surgery), [inequity of colon cancer diagnosis/treatment](https://health.usnews.com/health-care/best-hospitals/articles/colon-cancer-disparities-in-america), and [differences in community demographics compared to the demographics of hospital patients](https://health.usnews.com/health-news/blogs/second-opinion/articles/2021-07-27/analysis-of-racial-gaps-in-hospital-care).
+News, I conducted statistical analyses and utilized data management techniques
+with Stata to evaluate the quality of care provided at hospitals and nursing
+homes in the United States. I also co-authored multiple data journalism articles
+covering various topics surrounding health disparities such as [access to surgical care](https://health.usnews.com/health-care/best-hospitals/articles/who-gets-high-quality-hospital-care), [surgical outcomes and aortic valve replacement](https://health.usnews.com/health-care/best-hospitals/articles/race-and-risk-post-surgery), [colon cancer diagnosis/treatment](https://health.usnews.com/health-care/best-hospitals/articles/colon-cancer-disparities-in-america), and [community representation in local hospital patients](https://health.usnews.com/health-news/blogs/second-opinion/articles/2021-07-27/analysis-of-racial-gaps-in-hospital-care).
