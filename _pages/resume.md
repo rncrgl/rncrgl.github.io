@@ -13,8 +13,8 @@ redirect_from:
 ------
 
 **Johns Hopkins University**, Baltimore, MD \
-Sc.M. in Epidemiology from the Bloomberg School of Public Health | Expected August 2021 – May 2023 \
-•	Infectious Disease Epidemiology Track
+Sc.M. in Epidemiology from the Bloomberg School of Public Health | Expected August 2021 – May 2023
+* Infectious Disease Epidemiology Track
 
 B.A. in Public Health Studies & Economics from the Krieger School of Arts & Sciences | August 2014 – May 2018
 * Senior Focus in Biostatistics at the Johns Hopkins Bloomberg School of Public Health
