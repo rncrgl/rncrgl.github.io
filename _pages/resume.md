@@ -47,11 +47,11 @@ Analyst, Antitrust & Competition Economics | July 2018 – September 2019
 ## Involvement
 ------
 
-**Johns Hopkins University Men’s Swimming Team**, Baltimore, MD
+**Johns Hopkins University Men’s Swimming Team**, Baltimore, MD \
 NCAA Athlete | September 2014 – February 2018
 * Committed 20 hours each week to training, traveling, and competing as a four-year participant, all while maintaining a full course load and high GPA
 
-**Maryland SPCA**, Baltimore, MD
+**Maryland SPCA**, Baltimore, MD \
 Volunteer | May 2017 – September 2017
 * Cared for stray/neglected dogs and assisted in the adoption process to help animals find loving homes
 
