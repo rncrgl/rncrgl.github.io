@@ -19,8 +19,8 @@ Currently, I'm in the middle of my first year as a Master of Science (Sc.M.)
 student at the Johns Hopkins Bloomberg School of Public Health. My degree is in
 Epidemiology, with a focus in Infectious Disease Epidemiology. In addition to
 being a full-time student, I'm also a Research Assistant in the Infectious
-Disease Dynamics group where I've been working with cell phone mobility data
-from Sub-Saharan Africa. For my undergraduate degree, I also attended Johns
+Disease Dynamics group where I've been exploring cell phone mobility data
+from Sub-Saharan Africa using R. For my undergraduate degree, I also attended Johns
 Hopkins University where I received a Bachelor of Arts in Public Health Studies
 and Economics.
 
